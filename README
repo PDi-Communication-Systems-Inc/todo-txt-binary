@@ -1,0 +1,1 @@
+This repository is needed because it is not possible to build the todo.txt app under AOSP given its dependencies and the tie time to come up with an Android.mk to handle those dependencies. It might be possible and quicker to rework the source so that it does not have those dependencies. 
